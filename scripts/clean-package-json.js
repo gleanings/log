@@ -112,15 +112,15 @@ packageJson = {
     },
   },
   keywords: ['log', 'mudbean', 'vvi'],
-  homepage: 'https://npm.lmssee.com/log',
+  homepage: 'https://npm.gleanings.cn/log',
   dependencies,
   bugs: {
-    url: 'https://github.com/MrMudBean/log/issues',
+    url: 'https://github.com/gleanings/log/issues',
     email: 'Mr.MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/MrMudBean/log.git',
+    url: 'git+https://github.com/gleanings/log.git',
   },
   publishConfig: {
     access: 'public',

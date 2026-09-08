@@ -1,6 +1,6 @@
 # @vvi/log
 
-[![version](<https://img.shields.io/npm/v/@vvi/log.svg?logo=@mudbean/npm&logoColor=rgb(0,0,0)&label=版本号&labelColor=rgb(73,73,228)&color=rgb(0,0,0)>)](https://www.npmjs.com/package/@vvi/log) [![issues 提交](<https://img.shields.io/badge/issues-提交-rgb(255,0,63)?logo=github>)](https://github.com/MrMudBean/log/issues)
+[![version](<https://img.shields.io/npm/v/@vvi/log.svg?logo=@mudbean/npm&logoColor=rgb(0,0,0)&label=版本号&labelColor=rgb(73,73,228)&color=rgb(0,0,0)>)](https://www.npmjs.com/package/@vvi/log) [![issues 提交](<https://img.shields.io/badge/issues-提交-rgb(255,0,63)?logo=github>)](https://github.com/gleanings/log/issues)
 
 ## 安装
 
