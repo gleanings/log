@@ -112,7 +112,7 @@ packageJson = {
     },
   },
   keywords: ['log', 'mudbean', 'vvi'],
-  homepage: 'https://npm.gleanings.cn/log',
+  homepage: 'https://npms.gleanings.cn/log',
   dependencies,
   bugs: {
     url: 'https://github.com/gleanings/log/issues',
